@@ -13,7 +13,7 @@ Test steps:
 4) And check that the searched city appears in the city list
 
 An example of running the TestCase in the video below.
-Output log example [testlog.txt](https://github.com/TanyaNolan/test-weather-app/blob/main/testlog.txt).
+Output log example [test.log](https://github.com/TanyaNolan/test-weather-app/blob/main/test.log).
 
 https://user-images.githubusercontent.com/36508555/164981931-4d395eb0-ecc9-40dc-931a-268521275c0d.mp4
 
