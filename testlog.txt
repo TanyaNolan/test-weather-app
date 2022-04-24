@@ -1,4 +1,4 @@
-2022-04-24 17:34:08.532  I/TestRunner: run started: 1 tests
+2022-04-24 17:34:08.532  I/TestRunner: run started: 1 tests 
 2022-04-24 17:34:09.140  I/TestRunner: started: natlextest(com.example.kaspressotesting.NatlexTest)
 2022-04-24 17:34:09.157  I/KASPRESSO: ___________________________________________________________________________
 2022-04-24 17:34:09.177  I/KASPRESSO: ---------------------------------------------------------------------------
