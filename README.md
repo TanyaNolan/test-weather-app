@@ -1,7 +1,7 @@
 # test-weather-app
 
 ## Task 1:
-Bug reports & Suggestions: https://docs.google.com/spreadsheets/d/1000f4OqAnaVy3AHPlwtL0jFeyosQ4ATOU2CSE72fRXY/edit?usp=sharing
+[Bug reports & Suggestions](https://docs.google.com/spreadsheets/d/1000f4OqAnaVy3AHPlwtL0jFeyosQ4ATOU2CSE72fRXY/edit?usp=sharing)
 
 ## Task 2:
 Autotest with Kaspresso & UiAutomator [NatlexTest.kt](https://github.com/TanyaNolan/test-weather-app/blob/main/NatlexTest.kt)
