@@ -12,7 +12,8 @@ Test steps:
 3) Check that the city appears in the main card with name, temperature and color
 4) And check that the searched city appears in the city list
 
-An example of running the TestCase in the video below and output log example [testlog.txt](https://github.com/TanyaNolan/test-weather-app/blob/main/testlog.txt).
+An example of running the TestCase in the video below.
+Output log example [testlog.txt](https://github.com/TanyaNolan/test-weather-app/blob/main/testlog.txt).
 
 https://user-images.githubusercontent.com/36508555/164981931-4d395eb0-ecc9-40dc-931a-268521275c0d.mp4
 
