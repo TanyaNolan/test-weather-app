@@ -12,6 +12,8 @@ Test steps:
 3) Check that the city appears in the main card with name, temperature and color
 4) And check that the searched city appears in the city list
 
+An example of running the TestCase in the video below:
+
 https://user-images.githubusercontent.com/36508555/164981931-4d395eb0-ecc9-40dc-931a-268521275c0d.mp4
 
 
